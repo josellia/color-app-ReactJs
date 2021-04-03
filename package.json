@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-toastify": "^7.0.3"
+  }
+}

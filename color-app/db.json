@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "nome": "YELLOW",
+      "decimal": "#EBD02F"
+    },
+    {
+      "nome": "BLACK",
+      "decimal": "#0d0202",
+      "id": 2
+    }
+  ]
+}
